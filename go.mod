@@ -1,4 +1,4 @@
-module github.com/alexeyDevel/proptos
+module github.com/alexeyDevel/protos
 
 go 1.25.0
 
