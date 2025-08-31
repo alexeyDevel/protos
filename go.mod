@@ -1,4 +1,4 @@
-module github.com/alexeyDevel/sso
+module github.com/alexeyDevel/proptos
 
 go 1.25.0
 
